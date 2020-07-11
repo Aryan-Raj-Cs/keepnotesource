@@ -1,0 +1,14 @@
+img{
+    float:left;
+    margin-left:80px;
+    padding:10px;
+}
+.header{
+    background-color: #ffd700;
+    color: white;
+    box-sizing: border-box;
+    height:100px;
+}
+h1{
+    padding-top:20px;
+}
