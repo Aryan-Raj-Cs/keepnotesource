@@ -40,6 +40,7 @@ function App() {
    }
 
 
+
    const edit=(obj,id)=>{
    alert(obj,id)
   }
